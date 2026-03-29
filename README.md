@@ -1,4 +1,4 @@
-# Travel Triangle Tour Package Price Prediction
+# Tour Pricing Optimization & Demand Forecasting System using Machine Learning
 ## Project Overview
 
 #### The Travel Triangle Price Prediction App is a complete end-to-end machine learning project that predicts the price of India tour packages based on features such as destination, duration, travel type, hotel rating, number of travelers, and more.
